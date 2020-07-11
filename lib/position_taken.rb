@@ -1,4 +1,4 @@
 def position_taken? (board, index)
-  array[index_number] == "  "
+  array[index] == "  "
 end
 # code your #position_taken? method here!
