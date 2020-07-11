@@ -1,4 +1,6 @@
 def position_taken? (board, index)
-  !(board[index] == " " ) && (board[index] == "X" || "O")
+  if !(board[index] == " " )
+  elsif(board[index] == "X" || "O")
+end
 end
 # code your #position_taken? method here!
